@@ -12,4 +12,8 @@ public class Main {
     public static void print2(){
         System.out.println("Macka");
     }
+
+    public static int sum(int a, int b){
+        return a+b;
+    }
 }
